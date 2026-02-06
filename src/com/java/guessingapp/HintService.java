@@ -1,4 +1,9 @@
 package com.java.guessingapp;
+/*
+Game Hint
+Add hint generation logic for wrong guesses
+
+ */
 
 public class HintService {
 
