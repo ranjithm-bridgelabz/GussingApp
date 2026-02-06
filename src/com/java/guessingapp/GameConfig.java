@@ -2,6 +2,11 @@ package com.java.guessingapp;
 
 import java.util.Random;
 
+/*
+ * This file contains game initialization and rules.
+ */
+
+
 public class GameConfig {
 
     private final int MIN = 1;
