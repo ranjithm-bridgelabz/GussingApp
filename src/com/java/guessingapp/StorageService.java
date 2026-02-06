@@ -4,6 +4,9 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/*
+ * Game result storage using file handling
+ */
 public class StorageService {
 
     public static void saveResult(String playerName, boolean result) {
