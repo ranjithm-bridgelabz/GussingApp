@@ -18,6 +18,9 @@ public class GuessingGame {
         config.displayWelcomeMessage();
 
         while (config.getAttemptsLeft() > 0) {
+            /*
+             * Error handling and validation
+             */
             try {
                 System.out.print("Enter your guess: ");
                 int guess = scanner.nextInt();
