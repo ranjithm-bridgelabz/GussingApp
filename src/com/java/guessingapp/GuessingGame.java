@@ -1,6 +1,8 @@
 package com.java.guessingapp;
 import java.util.Scanner;
-
+/*
+User input, higher / lower / correct feedback
+ */
 public class GuessingGame {
 
     private GameConfig config;
